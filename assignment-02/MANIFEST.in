@@ -1,0 +1,4 @@
+include README.md
+include requirements.txt
+include generate_biox_qr_code.py
+include biox_systems_qr_code.png
