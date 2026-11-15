@@ -1,0 +1,16 @@
+Transactions after removing duplicates: 283,726
+Normal training transactions: 169,951
+Validation transactions: 56,745
+Test transactions: 56,746
+Selected threshold: 19.625404
+Test ROC-AUC: 0.9384
+Test average precision: 0.2042
+
+              precision    recall  f1-score   support
+
+      Normal     0.9989    0.9983    0.9986     56651
+       Fraud     0.2558    0.3474    0.2946        95
+
+    accuracy                         0.9972     56746
+   macro avg     0.6274    0.6728    0.6466     56746
+weighted avg     0.9977    0.9972    0.9974     56746
